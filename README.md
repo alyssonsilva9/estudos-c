@@ -1,2 +1,2 @@
 # estudos-c
- Estudos em c
+ estudos em c
